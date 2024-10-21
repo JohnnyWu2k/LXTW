@@ -3,4 +3,4 @@
 ## 2.click latex_to_word.bat
 ## 3.get your file in output file
 
-## [Download from here]9https://github.com/JohnnyWu2k/LXTW/releases/tag/v1)
+## [Download from here](https://github.com/JohnnyWu2k/LXTW/releases/tag/v1)
